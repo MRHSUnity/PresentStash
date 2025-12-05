@@ -178,7 +178,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 53
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -230,7 +230,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 40
+  controlID: 51
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -355,7 +355,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 41
+  controlID: 52
   draggingID: 0
 --- !u!114 &15
 MonoBehaviour:
@@ -605,7 +605,11 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 51
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash
+=======
+  m_LastProjectPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash
+>>>>>>> 64b602b13fb538cc8fdd4ee3f30ad5d6984af59a
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -770,9 +774,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 2622ffff
       m_LastClickedID: -56794
       m_ExpandedIDs: 2e21ffff2622ffffe822ffff9627ffff
+=======
+      m_SelectedIDs: f81b0100
+      m_LastClickedID: 0
+      m_ExpandedIDs: de22ffff9627ffff
+>>>>>>> 64b602b13fb538cc8fdd4ee3f30ad5d6984af59a
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: Button
