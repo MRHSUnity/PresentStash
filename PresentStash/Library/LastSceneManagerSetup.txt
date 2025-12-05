@@ -1,9 +1,25 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/David Scene.unity
 =======
 - path: Assets/Scenes/James' Scene.unity
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+- path: Assets/Scenes/TalonScene.unity
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+- path: Assets/Scenes/James' Scene.unity
+>>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   isLoaded: 1
   isActive: 1
   isSubScene: 0

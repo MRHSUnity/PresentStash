@@ -1,14 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_FilePath: C:/Users/k1333646/Desktop/perClarLin/PresentStash/PresentStash/Packages/manifest.json
 =======
     m_FilePath: C:/Users/K1222505/Desktop/PerClarLin/PresentStash/PresentStash/Packages/manifest.json
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+    m_FilePath: C:/Users/K1335940/Desktop/New folder/PresentStash/PresentStash/Packages/manifest.json
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       ticks: 639005576834545480
     m_Hash: 4137356583
@@ -16,29 +21,66 @@ m_ProjectFiles:
     m_FilePath: C:/Users/k1333646/Desktop/perClarLin/PresentStash/PresentStash/Packages/packages-lock.json
 =======
       ticks: 639005577221701907
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      ticks: 639005603836718325
+    m_Hash: 4214636816
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      ticks: 639005576906244520
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
     m_Hash: 4137356583
+>>>>>>> Stashed changes
   m_LockFileStatus:
+<<<<<<< HEAD
     m_FilePath: C:/Users/K1222505/Desktop/PerClarLin/PresentStash/PresentStash/Packages/packages-lock.json
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+    m_FilePath: C:/Users/K1335940/Desktop/New folder/PresentStash/PresentStash/Packages/packages-lock.json
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       ticks: 639005576834545480
 =======
       ticks: 639005577221701907
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      ticks: 639005603836812033
+    m_Hash: 2669887709
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      ticks: 639005576906244520
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
     m_Hash: 37199154
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 <<<<<<< HEAD
+<<<<<<< HEAD
 m_ProjectPath: C:/Users/k1333646/Desktop/perClarLin/PresentStash/PresentStash/Packages
 =======
 m_ProjectPath: C:/Users/K1222505/Desktop/PerClarLin/PresentStash/PresentStash/Packages
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+m_ProjectPath: C:/Users/K1335940/Desktop/New folder/PresentStash/PresentStash/Packages
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
 m_EditorVersion: 6000.2.3f1 (c7638eb16d91)
 m_ResolvedPackages:
 - packageId: com.unity.2d.animation@12.0.2
@@ -47,10 +89,14 @@ m_ResolvedPackages:
   version: 12.0.2
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.animation@34e0443c58ed
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.animation@34e0443c58ed
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.animation@34e0443c58ed
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -322,10 +368,14 @@ m_ResolvedPackages:
   version: 2.0.1
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.aseprite@f6e7e126ac6d
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.aseprite@f6e7e126ac6d
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.aseprite@f6e7e126ac6d
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.aseprite
   name: com.unity.2d.aseprite
   displayName: 2D Aseprite Importer
@@ -476,10 +526,14 @@ m_ResolvedPackages:
   version: 11.0.1
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.psdimporter@0adcab25a8fd
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.psdimporter@0adcab25a8fd
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.psdimporter@0adcab25a8fd
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -692,10 +746,14 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.sprite@331abd9a1e2f
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.sprite@331abd9a1e2f
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.sprite@331abd9a1e2f
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -776,10 +834,14 @@ m_ResolvedPackages:
   version: 12.0.1
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.spriteshape@1d246726c231
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.spriteshape@1d246726c231
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.spriteshape@1d246726c231
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -995,10 +1057,14 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.tilemap@ba4a6b72f451
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.tilemap@ba4a6b72f451
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.tilemap@ba4a6b72f451
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.tilemap
   name: com.unity.2d.tilemap
   displayName: 2D Tilemap Editor
@@ -1098,10 +1164,14 @@ m_ResolvedPackages:
   version: 5.0.1
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.tilemap.extras@2338d989ff2a
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.tilemap.extras@2338d989ff2a
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.tilemap.extras@2338d989ff2a
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -1266,10 +1336,14 @@ m_ResolvedPackages:
   version: 2.10.2
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.collab-proxy@3351acaba9c9
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.collab-proxy@3351acaba9c9
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.collab-proxy@3351acaba9c9
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -1455,10 +1529,14 @@ m_ResolvedPackages:
   version: 3.0.36
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.ide.rider@4d374c7eb6db
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -1592,10 +1670,14 @@ m_ResolvedPackages:
   version: 2.0.23
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -1714,10 +1796,14 @@ m_ResolvedPackages:
   version: 1.14.2
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -1882,10 +1968,14 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -1982,10 +2072,14 @@ m_ResolvedPackages:
   version: 17.2.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.universal@635feed73fad
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.universal@635feed73fad
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.universal@635feed73fad
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -2113,10 +2207,14 @@ m_ResolvedPackages:
   version: 1.5.1
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.test-framework@a6f5be5f149c
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.test-framework@a6f5be5f149c
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.test-framework@a6f5be5f149c
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -2207,10 +2305,14 @@ m_ResolvedPackages:
   version: 1.8.9
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.timeline@6b9e48457ddb
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.timeline@6b9e48457ddb
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -2403,16 +2505,22 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+<<<<<<< Updated upstream
+=======
 - packageId: com.unity.ugui@2.0.0
   testable: 0
   isDirectDependency: 1
   version: 2.0.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ugui@f33505fcd0e6
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ugui@f33505fcd0e6
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.ugui@f33505fcd0e6
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -2503,16 +2611,21 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+>>>>>>> Stashed changes
 - packageId: com.unity.visualscripting@1.9.7
   testable: 0
   isDirectDependency: 1
   version: 1.9.7
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.visualscripting@6279e2b7c485
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -5407,16 +5520,116 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.ugui@2.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.0
+  source: 2
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.ugui@f33505fcd0e6
+  assetPath: Packages/com.unity.ugui
+  name: com.unity.ugui
+  displayName: Unity UI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "Unity UI is a set of tools for developing user interfaces for games
+    and applications. It is a GameObject-based UI system that uses Components and
+    the Game View to arrange, position, and style user interfaces. \u200B You cannot
+    use Unity UI to create or change user interfaces in the Unity Editor."
+  errors: []
+  versions:
+    all:
+    - 2.0.0
+    compatible:
+    - 2.0.0
+    recommended: 2.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - UI
+  - ugui
+  - Unity UI
+  - Canvas
+  - TextMeshPro
+  - TextMesh Pro
+  - Text
+  - TMP
+  - SDF
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 2.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: f33505fcd0e66d6f57e0171cfd77214cf3f156d1
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.0.0
+    minimumUnityVersion: 2019.2.0a1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.ext.nunit@2.0.5
   testable: 0
   isDirectDependency: 0
   version: 2.0.5
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ext.nunit@031a54704bff
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.ext.nunit@031a54704bff
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -5497,10 +5710,14 @@ m_ResolvedPackages:
   version: 17.2.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.core@e2a954003fc5
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.core@e2a954003fc5
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.core@e2a954003fc5
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -5627,10 +5844,14 @@ m_ResolvedPackages:
   version: 17.2.0
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.shadergraph@1f53f6b578bf
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.shadergraph@1f53f6b578bf
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.shadergraph@1f53f6b578bf
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5747,10 +5968,14 @@ m_ResolvedPackages:
   version: 17.0.3
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5859,10 +6084,14 @@ m_ResolvedPackages:
   version: 11.0.1
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.common@dd402daace1b
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.common@dd402daace1b
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.2d.common@dd402daace1b
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -6042,10 +6271,14 @@ m_ResolvedPackages:
   version: 1.3.2
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.mathematics@8017b507cc74
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.mathematics@8017b507cc74
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.mathematics@8017b507cc74
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -6147,10 +6380,14 @@ m_ResolvedPackages:
   version: 2.5.7
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.collections@d49facba0036
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.collections@d49facba0036
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.collections@d49facba0036
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6345,10 +6582,14 @@ m_ResolvedPackages:
   version: 4.9.3
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.searcher@1e17ce91558d
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.searcher@1e17ce91558d
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.searcher@1e17ce91558d
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6448,10 +6689,14 @@ m_ResolvedPackages:
   version: 1.8.24
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.burst@f7a407abf4d5
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.burst@f7a407abf4d5
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.burst@f7a407abf4d5
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6689,10 +6934,14 @@ m_ResolvedPackages:
   version: 1.0.1
   source: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.rendering.light-transport@2c9279f90d7c
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.rendering.light-transport@2c9279f90d7c
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.rendering.light-transport@2c9279f90d7c
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -6799,10 +7048,14 @@ m_ResolvedPackages:
   version: 1.11.5
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -6898,10 +7151,14 @@ m_ResolvedPackages:
   version: 3.1.0
   source: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: C:\Users\k1333646\Desktop\perClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
 =======
   resolvedPath: C:\Users\K1222505\Desktop\PerClarLin\PresentStash\PresentStash\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+  resolvedPath: C:\Users\K1335940\Desktop\New folder\PresentStash\PresentStash\Library\PackageCache\com.unity.test-framework.performance@92d1d09a72ed
+>>>>>>> c9c6cb94422b3368f76743d911fd9293f69ed25d
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
