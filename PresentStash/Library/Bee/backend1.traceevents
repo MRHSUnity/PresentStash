@@ -1,5 +1,6 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1764963586300090, "dur":232, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1764963586300392, "dur":3563, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
@@ -2707,6 +2708,8 @@
 ,{ "pid":12345, "tid":0, "ts":1764962015758551, "dur":5902, "ph":"X", "name": "ProfilerWriteOutput" }
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
 =======
+=======
+>>>>>>> Stashed changes
 ,{ "pid":12345, "tid":0, "ts":1764961923397423, "dur":205, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1764961923397676, "dur":3435, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1764961923401123, "dur":1339, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
@@ -5334,5 +5337,8 @@
 ,{ "pid":12345, "tid":16, "ts":1764961923543091, "dur":208, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":16, "ts":1764961923543311, "dur":681153, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1764961924240276, "dur":5822, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 ,
