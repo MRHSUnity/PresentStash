@@ -2,9 +2,12 @@ sceneSetups:
 - path: Assets/Scenes/TalonScene.unity
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 - path: Assets/Scenes/James' Scene.unity
 >>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
