@@ -159,6 +159,19 @@
       "source": "registry",
       "testable": false
     },
+<<<<<<< Updated upstream
+=======
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "Unity UI",
+      "resolvedPath": "C:\\Users\\K1335940\\Desktop\\New folder\\PresentStash\\PresentStash\\Library\\PackageCache\\com.unity.ugui@f33505fcd0e6",
+      "fingerprint": "f33505fcd0e66d6f57e0171cfd77214cf3f156d1",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+>>>>>>> Stashed changes
     "com.unity.visualscripting@1.9.7": {
       "name": "com.unity.visualscripting",
       "displayName": "Visual Scripting",
