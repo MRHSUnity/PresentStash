@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/David Scene.unity
+=======
+- path: Assets/Scenes/James' Scene.unity
+>>>>>>> 1635b898d377d24c6ad4b5883b49d3492624bb90
   isLoaded: 1
   isActive: 1
   isSubScene: 0
